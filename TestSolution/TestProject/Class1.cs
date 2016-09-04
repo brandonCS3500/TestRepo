@@ -13,5 +13,10 @@ namespace TestProject
         {
 
         }
+
+        public static void newMethod()
+        {
+
+        }
     }
 }
