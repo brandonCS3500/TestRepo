@@ -19,6 +19,11 @@ namespace TestProject
 
         }
 
+        public static void testMethodInNewBranch()
+        {
+
+        }
+
         public static void newMethodInTheMasterBranch()
         {
 
